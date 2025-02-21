@@ -1,6 +1,3 @@
-
-
-
 CREATE DATABASE IF NOT EXISTS `soft_uni` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `soft_uni`;
 
